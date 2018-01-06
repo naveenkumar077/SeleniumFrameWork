@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="157" started-at="2017-12-28T10:45:44Z" finished-at="2017-12-28T10:45:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="157" started-at="2017-12-28T10:45:44Z" finished-at="2017-12-28T10:45:44Z">
+      <class name="SeleniumPractise.maven1Test">
+        <test-method status="PASS" signature="mavenTest1()[pri:0, instance:SeleniumPractise.maven1Test@18be83e4]" name="mavenTest1" duration-ms="39" started-at="2017-12-28T16:15:44Z" finished-at="2017-12-28T16:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTest1 -->
+        <test-method status="PASS" signature="mavenTest2()[pri:0, instance:SeleniumPractise.maven1Test@18be83e4]" name="mavenTest2" duration-ms="6" started-at="2017-12-28T16:15:44Z" finished-at="2017-12-28T16:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTest2 -->
+        <test-method status="PASS" signature="mavenTest3()[pri:0, instance:SeleniumPractise.maven1Test@18be83e4]" name="mavenTest3" duration-ms="5" started-at="2017-12-28T16:15:44Z" finished-at="2017-12-28T16:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTest3 -->
+        <test-method status="PASS" signature="mavenTest4()[pri:0, instance:SeleniumPractise.maven1Test@18be83e4]" name="mavenTest4" duration-ms="5" started-at="2017-12-28T16:15:44Z" finished-at="2017-12-28T16:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTest4 -->
+      </class> <!-- SeleniumPractise.maven1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
